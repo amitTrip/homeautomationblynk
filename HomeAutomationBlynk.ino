@@ -17,12 +17,12 @@ DHT dht(dht_dpin, DHTTYPE);
 SimpleTimer timer;
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "PCPOiGgOgwGdj5MIWVFaCnBNHlSCbXoE";
+char auth[] = "GgOgwGdj5MIWVFaCnBNHlSCbXoE";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
 char ssid[] = "papindarhome";
-char pass[] = "oreo1234";
+char pass[] = "@@@@@@@";
 float t;                                   // Declare the variables 
 float h;
 
